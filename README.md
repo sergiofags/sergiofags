@@ -4,13 +4,11 @@
 
 <div style="display: inline_block">
 <img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
+<img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087582582910230528/gengar-pokemon.gif" />
 <img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
- <img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
- <img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
-  <img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
-  <img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
-  <img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
-<div style="display: inline_block">
+<img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087582582910230528/gengar-pokemon.gif" />
+<img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
+</div>
 
 ## Minhas redes sociais!
 <div> 
@@ -22,6 +20,8 @@
 </div>
 
 <br>
+
+## Meus Status
 
 <img heigth="180em"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofags&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) </img> 
 <img heigth="180em"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofags&layout=compact&theme=nightowl&heigth="180em")](https://github.com/anuraghazra/github-readme-stats) </img>
