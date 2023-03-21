@@ -44,9 +44,3 @@
   <img align="center" src="https://img.shields.io/badge/MySQL-54487A?style=for-the-badge&logo=mysql&logoColor=white" />
  <div style="display: inline_block">
  <br>
- 
- <div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
