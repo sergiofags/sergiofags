@@ -1,6 +1,17 @@
 
-## Olá! Bem vindo ao meu Perfil! 
+## Olá! Bem vindo ao meu Perfil! <img align="right" height="200em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
 
+💻 Desenvolvedor Web
+
+💻 Técnico em Informática 
+
+### Formação Acadêmica 
+
+🎓 Técnico em Informática integrado ao ensino médio no IFSC Campus Garopaba. 2020 - 2022
+
+🎓 Cursando Superior de Tecnologia em Sistemas para Internet no IFSC Campus Garopaba. 2023
+
+<br>
 
 ## Minhas redes sociais!
 <div> 
@@ -32,6 +43,4 @@
  <div style="display: inline_block">
  <br>
 
-
-<img align="right" height="200em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
 
