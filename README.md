@@ -2,7 +2,15 @@
 ## Olá! Bem vindo ao meu Perfil! 
 
 
-
+<div style="display: inline_block">
+<img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
+<img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
+ <img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
+ <img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
+  <img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
+  <img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
+  <img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
+<div style="display: inline_block">
 
 ## Minhas redes sociais!
 <div> 
@@ -29,8 +37,8 @@
   <img align="center" src="https://img.shields.io/badge/Python-54487A?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/PHP-54487A?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/MySQL-54487A?style=for-the-badge&logo=mysql&logoColor=white" />
- </div>
+ <div style="display: inline_block">
  <br>
 
 
-<img height="300em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
+
