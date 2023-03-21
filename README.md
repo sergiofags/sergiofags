@@ -5,7 +5,8 @@
 
 💻 Técnico em Informática 
 
-### Formação Acadêmica 
+<br>
+## Formação Acadêmica 
 
 🎓 Técnico em Informática integrado ao ensino médio no IFSC Campus Garopaba. 2020 - 2022
 
