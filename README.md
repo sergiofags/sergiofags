@@ -16,6 +16,7 @@
 <br>
 
 ## Minhas redes sociais!
+
 <div> 
   
   <a href="https://instagram.com/sergiofags" target="_blank"><img src="https://img.shields.io/badge/-Instagram-54487A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,7 +32,6 @@
 <img heigth="180em"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofags&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) </img> 
 <img heigth="180em"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofags&layout=compact&theme=nightowl&heigth="180em")](https://github.com/anuraghazra/github-readme-stats) </img>
 <br>
-
 
 ## Linguagens de Programação que mais utilizo!
 
@@ -50,5 +50,3 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-
