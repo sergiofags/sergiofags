@@ -1,5 +1,5 @@
 
-## Olá! Bem vindo ao meu Perfil! <img align="right" height="200em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
+## Olá! Bem vindo ao meu Perfil! <img align="right" height="300em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
 
 💻 Desenvolvedor Web
 
