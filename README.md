@@ -1,7 +1,7 @@
 
-## Olá! Bem vindo ao meu Perfil! 
+## Olá! Bem vindo ao meu Perfil! <img float="right" height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
 
-<img float="right" height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
+
 
 ## Minhas redes sociais!
 <div> 
