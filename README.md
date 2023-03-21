@@ -1,14 +1,7 @@
 
 ## Olá! Bem vindo ao meu Perfil! 
 
-
-<div style="display: inline_block">
-<img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
-<img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087582582910230528/gengar-pokemon.gif" />
-<img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
-<img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087582582910230528/gengar-pokemon.gif" />
-<img height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
-</div>
+<img float="right" height="100em" src="https://cdn.discordapp.com/attachments/962806150963814464/1087574388255232130/2994319_ratafakplachta_regular-gengar.gif" />
 
 ## Minhas redes sociais!
 <div> 
