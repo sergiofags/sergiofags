@@ -11,7 +11,7 @@
 
 🎓 - Técnico em Informática integrado ao ensino médio no IFSC Campus Garopaba. 2020 - 2022 ✔️
 
-🎓 - Cursando Superior de Tecnologia em Sistemas para Internet no IFSC Campus Garopaba. 2023 - 2025
+🎓 - Cursando Superior de Tecnologia em Sistemas para Internet no IFSC Campus Garopaba. 2023 - 2025 ⌛
 
 <br>
 
