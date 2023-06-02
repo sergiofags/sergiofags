@@ -1,5 +1,5 @@
 
-## Olá! Bem vindo ao meu Perfil! <img align="right" height="205em" src="https://cdn.discordapp.com/attachments/962806150963814464/1114061065785974784/smile-happy.gif" />
+## Olá! Bem vindo ao meu Perfil! <img align="right" height="205em" src="[https://cdn.discordapp.com/attachments/962806150963814464/1114061065785974784/smile-happy.gif](https://cdn.discordapp.com/attachments/962806150963814464/1114063341892149308/emoji-disintergrating.gif)" />
 
 💻 - Desenvolvedor Web
 
