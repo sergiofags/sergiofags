@@ -21,9 +21,9 @@
 
 <div> 
   
-  <a href="https://instagram.com/sergiofags" target="_blank"><img src="https://img.shields.io/badge/-Instagram-54487A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato.sergiofagundes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-54487A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sergiofagundes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-54487A?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/sergiofags" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DC143C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.sergiofagundes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-900020?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sergiofagundes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
@@ -39,11 +39,11 @@
 ## Linguagens de Programação que mais utilizo!
 
 <div style="display: inline_block">
-  <img align="center" src="https://img.shields.io/badge/HTML5-54487A?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/CSS3-54487A?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/JavaScript-54487A?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Python-54487A?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/PHP-54487A?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/MySQL-54487A?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/CSS3-0000FF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" src="https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/PHP-9932CC?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/MySQL-1981CD?style=for-the-badge&logo=mysql&logoColor=white" />
  <div style="display: inline_block">
  <br>
