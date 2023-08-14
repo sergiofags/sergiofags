@@ -40,7 +40,7 @@
 
 
 
-<div style="display: inline_block">
+<div style="display: inline_block; margin-bottom: 3px;">
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00AEFF" />
   <img align="center" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=00AEFF" />
   <img align="center" src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=00AEFF" />
@@ -53,5 +53,5 @@
   <img align="center" src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=00AEFF" />
   
   
- <div style="display: inline_block">
+ <div style="display: inline_block; margin-bottom: 3px;">
  <br>
