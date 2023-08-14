@@ -11,9 +11,27 @@
 
 ## Formação Acadêmica 
 
-🎓 - Técnico em Informática integrado ao ensino médio no IFSC Campus Garopaba. 2020 - 2022 ✔️
+#### IFSC - Campus Garopaba
 
-🎓 - Cursando Superior de Tecnologia em Sistemas para Internet no IFSC Campus Garopaba. 2023 - 2025 ⌛
+🎓 - Técnico em Informática integrado ao ensino médio. 2020 - 2022 ✔️
+
+🎓 - Cursando Superior de Tecnologia em Sistemas para Internet. 2023 - 2025 ⌛
+
+<br>
+
+#### Udemy
+
+🎓 - Curso de JavaScript e TypeScript do básico ao avançado. 2023 ⌛
+
+🎓 - Curso de React.Js e Next.Js (Intermediário e Avançado). 2023 ⌛
+
+🎓 - PHP 7 Completo - Curso do Desenvolvedor Web. 2023 ⌛
+
+🎓 - Curso de Python 3 do Básico Ao Avançado. 2023 ⌛
+
+🎓 - Curso Web Frontend Fundamentos: HTML, CSS e JS. 2023 ⌛
+
+
 
 <br>
 
