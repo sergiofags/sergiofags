@@ -40,6 +40,6 @@
 
 ## Meus Status
 
-<img heigth="180em"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofags&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) </img> 
-<img heigth="180em"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofags&layout=compact&theme=algolia&heigth="180em")](https://github.com/anuraghazra/github-readme-stats) </img>
+<img heigth="100em"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofags&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) </img> 
+<img heigth="100em"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofags&layout=compact&theme=algolia&heigth="180em")](https://github.com/anuraghazra/github-readme-stats) </img>
 <br>
