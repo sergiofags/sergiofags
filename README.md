@@ -28,6 +28,8 @@
   <img align="center" src="https://img.shields.io/badge/TypeScript-3758FF?style=for-the-badge&logo=typescript&logoColor=fff" />
   <img align="center" src="https://img.shields.io/badge/Node.js-01C227?style=for-the-badge&logo=node.js&logoColor=fff" />
   <img align="center" src="https://img.shields.io/badge/PHP-A22AFF?style=for-the-badge&logo=php&logoColor=fff" />
+  <br>
+  <br>
   <img align="center" src="https://img.shields.io/badge/HTML5-FF8A16?style=for-the-badge&logo=html5&logoColor=fff" />
   <img align="center" src="https://img.shields.io/badge/CSS3-2D7BEA?style=for-the-badge&logo=css3&logoColor=fff" />
   <img align="center" src="https://img.shields.io/badge/Python-8192EB?style=for-the-badge&logo=python&logoColor=fff" />
