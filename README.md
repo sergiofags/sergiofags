@@ -36,9 +36,3 @@
   <img align="center" src="https://img.shields.io/badge/MongoDB-06C244?style=for-the-badge&logo=mongodb&logoColor=fff" />
  <div style="display: inline_block; margin-bottom: 3px;">
  <br>
-
-## Meus Status
-
-<img heigth="100em"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofags&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) </img> 
-<img heigth="100em"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofags&layout=compact&theme=algolia&heigth="180em")](https://github.com/anuraghazra/github-readme-stats) </img>
-<br>
