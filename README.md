@@ -1,11 +1,11 @@
 <img src="https://cdn.discordapp.com/attachments/1157136611675484213/1157725895008727140/Banner_4.png?ex=6519a7c2&is=65185642&hm=167e9de487056f1c288aed65869f46ecb2d0f60f2308958ce018fa8f7fd5b1de&" alt="" />
 
-## MEU PORTFÓLIO 
-### https://sergiofags.com/
+<h2> MEU PORTFÓLIO </h1>
+<h3>https://sergiofags.com/</h3>
 
 <br>
 
-## Minhas redes sociais!
+<h2>Minhas redes sociais!</h2> 
 
 <div> 
   
@@ -17,7 +17,7 @@
 
 <br>
 
-## Minhas linguagens de programação!
+<h2>Minhas linguagens de programação!</h2> 
 <div style="display: inline_block; margin-bottom: 3px;">
   <img align="center" src="https://img.shields.io/badge/React-799FFF?style=for-the-badge&logo=react&logoColor=fff" />
   <img align="center" src="https://img.shields.io/badge/JavaScript-FFE623?style=for-the-badge&logo=javascript&logoColor=black" />
