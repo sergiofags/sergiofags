@@ -2,12 +2,6 @@
 
 ## Olá! Bem vindo ao meu Perfil! 
 
-### Desenvolvedor Full Stack 💻
-
-### Desenvolvedor de Sorftware 💻
-
-### Técnico em Informática 💻
-
 <br>
 
 ## Minhas redes sociais!
