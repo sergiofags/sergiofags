@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/1157136611675484213/1157725895008727140/Banner_4.png?ex=6519a7c2&is=65185642&hm=167e9de487056f1c288aed65869f46ecb2d0f60f2308958ce018fa8f7fd5b1de&" alt="" />
+
 ## Olá! Bem vindo ao meu Perfil! 
 
 ### Desenvolvedor Full Stack 💻
