@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/codewonders">LinkedIn</a>
 </p>
 
-<p align="center">
+<p align="center" width="30%">
   <img src="https://img.shields.io/badge/JavaScript-blueviolet?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-blueviolet?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Python-blueviolet?style=for-the-badge&logo=python&logoColor=white">
