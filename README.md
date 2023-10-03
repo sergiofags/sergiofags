@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://codewonders.dev">Portfolio</a> -
-  <a href="https://linkedin.com/in/codewonders">LinkedIn</a>
+  <a href="https://sergiofags.com/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/sergiofagundes/">LinkedIn</a>
 </p>
 <br>
 <p align="center" display="flex">
