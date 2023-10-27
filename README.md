@@ -10,5 +10,5 @@
 </p>
 <br>
 <p align="center" display="flex">
-  JavaScript | ReactJS | NodeJS | PHP | Kotlin | JAVA | MongoDB | NextJS | Python | TypeScript | React Native | JQuery | TailWind CSS
+  PHP | Laravel | JavaScript | ReactJS | NodeJS | MongoDB | NextJS | Python | JQuery | TailWind CSS
 </p>
