@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1157136611675484213/1168378866960703509/Banner.jpg?ex=65518c9d&is=653f179d&hm=f7c4a97aae8c5ee45eec6be77e14c0b0e1d7ecc740b4c69b4d1fd37cc41c6ea5&" width="100%" />  
+  <img src="https://cdn.discordapp.com/attachments/1157136611675484213/1173798246028693574/sergio_fagundes.png?ex=656543cd&is=6552cecd&hm=6c66f10930c74f76e6659fe7a4501c2c420d8a9a569ee23892815ec55fa7c219&" width="100%" />  
   <h1 align="center">I'm Sérgio Fagundes</h1>
   <h4 align="center"> Web Developer | Web Designer.</h4>
 </p>
