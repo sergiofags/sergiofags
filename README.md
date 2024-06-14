@@ -1,4 +1,4 @@
-# 👋 Welcome! My name is Sérgio Fagundes and i am Developer! ☕
+# 👋 Welcome! I'm developer☕🖥️
 
 ## My stack languages
 
